@@ -3,7 +3,7 @@
 ### Prérequis
 
 Homebrew le gestionnaire de paquet est nécessaire.
-Si vous ne possédez pas encore Homebrew il faudra l'installer.
+Si vous ne possédez pas encore Homebrew, ce qui est fortement improbable car vous êtes en cours avec moi, il faudra l'installer.
 
 
 Vous pouvez utiliser la commande suivante pour installer Homebrew
