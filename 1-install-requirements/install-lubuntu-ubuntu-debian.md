@@ -2,7 +2,7 @@
 
 ### Commandes d'installation
 
-#### ELixir
+#### Elixir
 
 ```bash
 wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb && sudo dpkg -i erlang-solutions_1.0_all.deb
@@ -25,7 +25,7 @@ Elixir 1.5.2
 :warning: 
 
 Il est possible que tout aventurier que vous êtes, vous ayez déjà installé node.
-Si vous avez un version de node < 8 et de npm < 5 ca n'ira pas, il vous faudra virer ces versions et faire l'installation indiquer si dessus.
+Si vous avez une version de node < 8 et de npm < 5, ca n'ira pas, il vous faudra virer ces versions et faire l'installation indiquée si dessous.
 
 Vous pouvez tenter un `sudo apt-get remove nodejs`.
 
