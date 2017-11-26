@@ -4,7 +4,7 @@ La plupart des éditeurs de texte proposent des plugins pour écrire de l'Elixir
 
 Nous vous recommandons fortement d'utiliser un des deux setups suivant pour éviter tout problème le jour J.
 
-Le setup que nous recommandons : Visual Studio Code car Intellij est très lent avec le plugin Elixir.
+**Le setup que nous recommandons : Visual Studio Code car Intellij est très lent avec le plugin Elixir.**
 
 ### Intellij IDEA
 
