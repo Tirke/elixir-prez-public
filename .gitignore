@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+
+### Elixir template
+_build
+cover
+deps
+doc
+.fetch
+erl_crash.dump
+*.ez
+*.beam
+
