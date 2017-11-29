@@ -28,7 +28,15 @@ Erlang/OTP 20 [erts-9.1.4] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-thread
 Elixir 1.5.2
 ```
 
-
 ### Installer Node + npm
 
-Ecrire ici Arnaud Freismuth comment on install node + npm
+1. [Télécharger l'installateur en fonction de votre système](https://nodejs.org/en/download/)
+2. Cliquer sur next, next, back, next ..., finish :laughing:
+3. Tester : Ouvrir Node.js Command Prompt et lancer :
+```bash
+node -v
+v8.9.1
+
+npm -v
+v5.5.1
+```
