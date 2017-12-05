@@ -44,3 +44,9 @@ v8.9.1
 npm -v
 5.5.1
 ```
+
+#### Postgresql
+
+```bash
+brew install postgres
+```
